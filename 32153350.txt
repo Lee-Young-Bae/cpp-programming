@@ -1,0 +1,32 @@
+
+Game guide
+
+1. Enter User's name to start the game.
+
+2. Choose how many virtual players you want.
+
+3. This game is a turn-based game. and when you start, you get 50 life points and 5-Jeon of money.
+
+4.  All players can have up to six units, and the unit's attack, stamina, and price are all different.
+
+5. If you have 3 units of the same unit, the unit is automatically enhanced. The attack and stamina of the enhanced unit are stronger than before.
+
+6. You can also buy units, sell your own units, and swap them before the competition begins.
+
+7. Unit stores offer up to 5 units per turn. Units are provided at random. The same unit may be provided in duplicate.
+
+8. Additionally, with additional services, you can change your life points into money or increase your life points with money.
+
+9. When you start a game, all players are matched with ohter player one-on-one.
+
+10. Each player's unit will compete against the other's unit. The competition is a relay, and the one who has no more units loses.
+
+11. When a unit attacks an opponent's unit, it attacks as much as its own attack with a 70% chance and as much as the random number produced during its own attack with a 30% chance.
+
+12. The defeated player loses life points as much as the opponent's unit grade.
+
+13. The winning player earns money according to the losing player's unit grade.
+
+14. You can earn 3-Jeons for each unit of Grade 1, 5-Jeons for each unit of Grade 2, and 7-Jeonsfor each unit of Grade 3.
+
+15. The game will continue until there is only one player left.
